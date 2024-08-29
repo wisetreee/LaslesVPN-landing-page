@@ -1,0 +1,22 @@
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu {
+    display: flex;
+    list-style-type:none;
+
+}
+.menu-item{
+    margin: 0 40px;
+}
+
+.logo {
+    align-items: center;
+}
